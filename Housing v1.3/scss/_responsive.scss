@@ -1,0 +1,37 @@
+
+
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+	
+
+ }
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575px) { 
+
+ }
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767px) { 
+	.navbar>.container .navbar-brand, 
+	.navbar>.container-fluid .navbar-brand {
+		position: absolute;
+		margin-left: 10px;
+		margin-top: 8px;
+		padding: 0;		
+	}
+
+
+ }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991px) { 
+	
+ }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199px) { 
+
+ }
